@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceR</string>
+    <string name="hello">Face Detection Using Camera!</string>
+    <string name="click_picture">*Take Picture</string>
+</resources>
